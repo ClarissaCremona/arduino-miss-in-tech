@@ -1,4 +1,3 @@
-// Copyright Clarissa Cremona 2022-forever MiT
 
 const int ledPin = 12;
 const int buttonPin = 2;
